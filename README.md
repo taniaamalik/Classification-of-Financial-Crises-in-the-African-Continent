@@ -20,4 +20,3 @@ Classification of Financial Crises in the African Continent using Support Vector
   - Evaluation using Confusion Matrix (precision, recall, f-measure, accuracy)
   - Analysis the result
 5. Conclusions and Suggestions
-
