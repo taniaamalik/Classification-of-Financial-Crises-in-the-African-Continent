@@ -1,5 +1,5 @@
 # Classification of Financial Crises in the African Continent
-Classification of Financial Crises in the African Continent using Support Vector Machine Method with Python.
+Classification of Financial Crises in the African Continent using Support Vector Machine Method in Python.
 
 1. Business Understanding:
   - Background and Problems
